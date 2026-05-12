@@ -97,12 +97,14 @@ A fork of [GPSLogger](https://github.com/mendhak/gpslogger) by [mendhak](https:/
 
 <img width="2572" height="1048" alt="image" src="https://github.com/user-attachments/assets/a57b3576-cca0-4426-baab-b1f79c284b0e" />
 
-### [Reminders](https://github.com/im360noscope/reminders-tool) ([im360noscope](https://github.com/im360noscope))
+### [Reminders](https://github.com/zacksimpson/reminders-tool) ([zacksimpson](https://github.com/zacksimpson))
 
- A simple productivity task management tool designed for the Light Phone III.
+A simple productivity task management tool designed for the Light Phone III.
 
-<img width="2160" height="900" alt="image" src="https://github.com/user-attachments/assets/21f21017-dcb1-48d4-80c1-3fce2027c857" />
+<img width="2572" height="1048" alt="reminders-example" src="https://github.com/user-attachments/assets/aea34fe5-27bb-4eb8-946d-54137c995a9d" />
 
-### [Emojis](https://github.com/im360noscope/emoji-tool) ([im360noscope](https://github.com/im360noscope))
+### [Emojis](https://github.com/zacksimpson/emoji-tool) ([zacksimpson](https://github.com/zacksimpson))
 
 An Emoji picker for LPIII that copies to the clipboard. Searchable by name and keyword.
+
+<img width="2572" height="1048" alt="emojis-example" src="https://github.com/user-attachments/assets/6e096bd5-03f6-4324-a7c8-fc9f8e6eb08e" />
