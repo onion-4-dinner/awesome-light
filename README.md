@@ -108,3 +108,9 @@ A simple productivity task management tool designed for the Light Phone III.
 An Emoji picker for LPIII that copies to the clipboard. Searchable by name and keyword.
 
 <img width="2572" height="1048" alt="emojis-example" src="https://github.com/user-attachments/assets/6e096bd5-03f6-4324-a7c8-fc9f8e6eb08e" />
+
+### [Keyboard](https://github.com/adam-weber/light-keyboard) ([adam-weber](https://github.com/adam-weber))
+
+A clone of the Light Phone 3's built-in keyboard, for a unified look across apps.
+
+<img width="2572" height="1048" alt="example" src="https://github.com/user-attachments/assets/e324da77-33f1-4eec-aa9c-7b592d2bafed" />
