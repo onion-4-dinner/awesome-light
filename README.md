@@ -23,7 +23,7 @@ A minimal launcher for the Light Phone III.
 
 <img width="2572" height="1048" alt="image" src="https://github.com/user-attachments/assets/8733403a-98a2-4341-802c-ce5bec3f103a" />
 
-## Music
+## Music/Audio
 
 ### [Echo](https://github.com/vandamd/echo) ([vandamd](https://github.com/vandamd/))
 
@@ -39,6 +39,12 @@ An independent, minimal Spotify client for LightOS. Playback runs in-process via
 > Basically, this has a few extra features, less album art, and doesn't require the Spotify app to be installed.
 
 <img height="500" alt="image" src="https://github.com/user-attachments/assets/a355aee7-d660-4d06-90ba-182b3417f86d" />
+
+### [NTS Radio](https://github.com/vandamd/nts-radio) ([vandamd](https://github.com/vandamd/))
+
+An app to play NTS Radio Live shows and Infinite Mixtapes.
+
+<img width="2572" height="1048" alt="image" src="https://github.com/user-attachments/assets/f8820e9b-1bf3-4c9c-987e-33ba4cebee4d" />
 
 ### [Reverb](https://github.com/vandamd/reverb) ([vandamd](https://github.com/vandamd/))
 
@@ -74,6 +80,12 @@ An app that adds a simple list with checkbox functionality for Light Phone/Luma 
 
 <img width="2572" height="1048" alt="image" src="https://github.com/user-attachments/assets/04ac288f-1aae-4cbc-8291-2e0ef02f0333" />
 
+### [Composer](https://github.com/zacksimpson/composer-tool) ([zacksimpson](https://github.com/zacksimpson/))
+
+A distraction-free Markdown notes tool for the Light Phone III.
+
+<img width="2572" height="1048" alt="image" src="https://github.com/user-attachments/assets/53f5e3ff-33ba-4b12-988c-911d545d3699" />
+
 ### [Tracker](https://github.com/tyshi00/Tracker) ([tyshi00](https://github.com/tyshi00))
 
 A health tracker for the Light Phone III. Just a simple way to keep tabs on your water intake, sleep, movement, and more, without any distractions.
@@ -97,6 +109,20 @@ A review-only, Anki-compatible spaced-repetition client for LightOS (the Light P
 
 https://github.com/user-attachments/assets/7d07f3b2-ab14-4f2e-8149-7a9cfa5f55f0
 
+### [Nourish](https://github.com/zacksimpson/nourish-tool) ([zacksimpson](https://github.com/zacksimpson/))
+
+A mindfulness-first daily check-in tool for the Light Phone III.
+
+Nourish is not a calorie tracker. It's a lightweight daily log for people who want to be more intentional about what they eat – connecting eating habits with context like stress, sleep, and how the day went. Built to be used once a day, in under a minute.
+
+<img width="2572" height="1048" alt="image" src="https://github.com/user-attachments/assets/c05a21b1-4f31-4c25-a8a7-d0ad6a2c9e91" />
+
+### [Luminous Strategies](https://github.com/ak-nattyb/luminous-strategies) ([ak-nattyb](https://github.com/ak-nattyb/))
+
+An app that lets you choose a card from Brian Eno's Oblique Strategies to inspire your creatvity.
+
+<img width="2572" height="1048" alt="image" src="https://github.com/user-attachments/assets/61badc93-14ef-4a78-9542-82c91e0dac9f" />
+
 ## Utility
 
 ### [Passes](https://github.com/vandamd/passes) ([vandamd](https://github.com/vandamd/))
@@ -109,10 +135,12 @@ An app for the Light Phone III to store and scan various codes.
 
 Paka is an intentionally small, offline pass-and-authenticator tool designed for Light Phone III. It scans and renders common barcode formats, carries encrypted PDF passes, encrypted one- or two-sided document photos, and generates TOTP codes without Google Play Services.
 
+<p align="center">
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/ae2045a5-5ac3-4a75-ae8a-ccabad1287fc" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/9c9d3bec-a713-4804-9517-3ff7434a9108" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/683b078e-b953-4df0-91f5-238b544e606a" />
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/ea77f832-4dab-414b-afba-0af1ecd586af" />
+</p>
 
 ### [Metronome](https://github.com/garado/metronome) ([garado](https://github.com/garado))
 
@@ -151,6 +179,18 @@ A personal GLP-1 injection and weight tracker for the Light Phone III.
 | Home | Log Shot | Profile |
 |---|---|---|
 | <img alt="image" src="https://github.com/user-attachments/assets/5e13c685-7265-4526-8a74-cdf3a9c8c547" /> | <img alt="image" src="https://github.com/user-attachments/assets/9d1ae3aa-67e3-4081-8b57-c80417c851c9" /> | <img alt="image" src="https://github.com/user-attachments/assets/4840e99e-1d41-4764-aa64-65d8720dac03" /> |
+
+### [Backlog](https://github.com/Alexis-NM/light-backlog) ([Alexis-NM](https://github.com/Alexis-NM))
+
+A minimal, LightOS-inspired video game tracker for the Light Phone III — a stripped-down Backloggd experience. Track your games by status, rate them, browse by console, write them into custom lists, and read game descriptions & screenshots — all in a distraction-free black & white interface. Game data comes from IGDB (by Twitch).
+
+<p align="center">
+<img width="180" alt="image" src="https://github.com/user-attachments/assets/62a33106-83a3-4d8b-8539-105a5c53a0ca" />
+<img width="180" alt="image" src="https://github.com/user-attachments/assets/d4326092-7fa8-4ddb-beb7-938df616948a" />
+<img width="180" alt="image" src="https://github.com/user-attachments/assets/c9d67e66-bdfe-4a15-ba5d-276f8a585c65" />
+<img width="180" alt="image" src="https://github.com/user-attachments/assets/2a84d4fd-0d9e-4b98-9ec7-add0b7adf5a1" />
+<img width="180" alt="image" src="https://github.com/user-attachments/assets/cb299546-dc7f-4b48-b8c7-a28582d6d2c0" />
+</p>
 
 ## Navigation
 
